@@ -18,6 +18,6 @@ def index():
 
     while True:
         time.sleep(60)
-        requests.post(SEND_URL, json={'chat_id': CHAT_ID, 'text': 'nifty_index_data'})  
+        requests.post(SEND_URL, json={'chat_id': CHAT_ID, 'text': 'nifty_kjhindex_data'})  
     
     return "kkkjghl"
