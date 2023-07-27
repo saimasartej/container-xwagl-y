@@ -19,4 +19,4 @@ def index():
         time.sleep(60)
         requests.post(SEND_URL, json={'chat_id': CHAT_ID, 'text': 'nifty_index_data'})  
     
-    return "kkl"
+    return "kkkjghl"
